@@ -8,3 +8,4 @@ git status
 git log		git log --pretty=oneline
 git reflog
 
+git checkout --a.txt	回到最近一次的git add 或者git commit状态
